@@ -19,14 +19,6 @@ Full-stack developer building small web projects and learning by creating.
   <img src="https://skillicons.dev/icons?i=python,ts,html,cs,svelte,nextjs,tailwind,nodejs,firebase,mongodb,prisma,tensorflow,opencv,git,github,vscode" />
 </p>
 
-<h3>Links</h3>
-
-<p>
-  <a href="https://upbeat-rabbit-b1e2d.rehost.site/">Portfolio</a> •
-  <a href="https://linkedin.com/in/maimunatwork">LinkedIn</a> •
-  <a href="mailto:studywithmaimun@gmail.com">Email</a>
-</p>
-
   </td>
   </tr>
 </table>
