@@ -1,9 +1,9 @@
-<h1>
-  Hey there 👋
-</h1>
+<h1>Hey there 👋</h1>
 
 <p>
-  नमस्ते (Namaste), I am <b>Maimun Ahmed</b>.<br/>
+  I'm <b>Maimun Ahmed</b>, a full-stack developer from 
+  <img src="https://flagcdn.com/w20/in.png" width="16" alt="India flag"/>
+  <b>Guwahati, India</b>.<br/>
   Undergrad at <b>NIT Silchar &rsquo;29</b> | Civil Department<br/>
   Currently learning <b>Svelte</b>, <b>Next.js</b>, and <b>After Effects</b>.
 </p>
