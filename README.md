@@ -28,12 +28,6 @@ Node.js · Firebase · MongoDB · Prisma
 **ML / Automation**
 TensorFlow · OpenCV · whisper.cpp
 
----
-
-### Links
-
-[Portfolio](https://upbeat-rabbit-b1e2d.rehost.site/) · [LinkedIn](https://linkedin.com/in/maimunatwork) · [Email](mailto:studywithmaimun@gmail.com)
-
   </td>
   </tr>
 </table>
