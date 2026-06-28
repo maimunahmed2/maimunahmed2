@@ -1,8 +1,11 @@
-<h1>Hey there, I am Maimun 👋</h1>
+<h1>hey there, i am Maimun 👋</h1>
 
-<p>Undergrad at <b>NIT Silchar&rsquo;29</b> | Civil Department<br/></p>
+<p>
+  undergrad at <b>NIT Silchar &rsquo;29</b> | civil department
+</p>
 
-<h3>Things I work with</h3>
+<h3>things i work with</h3>
+
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -18,13 +21,13 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3>Interests</h3>
+<h3>interests</h3>
 
 <p>
-  Web projects · UI design · Video editing · Machine learning · Psychology & storytelling
+  web projects · ui design · video editing · machine learning · psychology & storytelling
 </p>
 
-<h3>Where to find me</h3>
+<h3>where to find me</h3>
 
 <p>
   <a href="https://github.com/maimunahmed2" target="_blank">
