@@ -1,6 +1,5 @@
 <h1>
-  Hey there
-  <img src="https://slackmojis.com/emojis/6611-wave-animated/download" width="30" alt="waving hand" />
+  Hey there 👋
 </h1>
 
 <p>
