@@ -1,4 +1,4 @@
-<h1>Hey there 👋 I am Maimun</h1>
+<h1>Hey there, I am Maimun 👋</h1>
 
 <p> Maimun Ahmed · <img src="https://flagcdn.com/w20/in.png" width="16" alt="India flag"/><br/>
 Undergrad at <b>NIT Silchar &rsquo;29</b> | Civil Department<br/>
