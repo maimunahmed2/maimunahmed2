@@ -1,7 +1,6 @@
 <h1>Hey there, I am Maimun 👋</h1>
 
-Undergrad at <b>NIT Silchar &rsquo;29</b> | Civil Department<br/>
-Currently learning <b>Svelte</b>, <b>Next.js</b>, and <b>After Effects</b>. </p>
+<p>Undergrad at <b>NIT Silchar &rsquo;29</b> | Civil Department<br/></p>
 
 <h3>Things I work with</h3>
 <p>
