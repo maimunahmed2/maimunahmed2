@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**maimunahmed2/maimunahmed2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
 
-Here are some ideas to get you started:
+```txt
+● ● ●  github.com/maimunahmed2
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Maimun Ahmed
+
+**Undergrad at NIT Silchar**
+Full-stack developer building small web projects and learning by creating.
+
+---
+
+### Skills
+
+**Languages**
+Python · TypeScript · HTML · C#
+
+**Frontend**
+SvelteKit · Next.js · Tailwind CSS · Framer
+
+**Backend**
+Node.js · Firebase · MongoDB · Prisma
+
+**ML / Automation**
+TensorFlow · OpenCV · whisper.cpp
+
+---
+
+### Links
+
+[Portfolio](https://upbeat-rabbit-b1e2d.rehost.site/) · [LinkedIn](https://linkedin.com/in/maimunatwork) · [Email](mailto:studywithmaimun@gmail.com)
+
+  </td>
+  </tr>
+</table>
+
+</div>
