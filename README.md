@@ -1,11 +1,16 @@
 <h1>Hey there 👋</h1>
 
 <p>
-  <p> Maimun Ahmed · Full-stack Developer · <img src="https://flagcdn.com/w20/in.png" width="16" alt="India flag"/> </p>
+  Maimun Ahmed · <img src="https://flagcdn.com/w20/in.png" width="16" alt="India flag"/>
   Undergrad at <b>NIT Silchar &rsquo;29</b> | Civil Department<br/>
   Currently learning <b>Svelte</b>, <b>Next.js</b>, and <b>After Effects</b>.
 </p>
 
+<p>
+  <b>Maimun Ahmed</b> · Undergrad at <b>NIT Silchar &rsquo;29</b><br/>
+  Civil Department · India <img src="https://flagcdn.com/w20/in.png" width="16" alt="India flag"/><br/>
+  Currently learning <b>Svelte</b>, <b>Next.js</b>, and <b>After Effects</b>.
+</p>
 <h3>Things I work with</h3>
 
 <p>
