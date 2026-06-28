@@ -1,4 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>Hey there <img src="https:/<img width="64" height="64" alt="waving-hand" src="https://github.com/user-attachments/assets/a0a02160-7787-499b-bf0a-da86f631af28" />/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+![Uploading waving-hand.gif…]()
 
 <p>Welcome to my page! </br> I'm Maimun, Fullstack developer from <img src="https://flagcdn.com/w20/in.png" width="16" alt="India flag"/> <b>Guwahati, India</b>.</p>
 <h3>Things I code with</h3>
