@@ -11,7 +11,6 @@
 # Maimun Ahmed
 
 **Undergrad at NIT Silchar**
-Full-stack developer building small web projects and learning by creating.
 
 ---
 
