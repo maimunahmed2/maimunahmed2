@@ -1,7 +1,7 @@
 <h1>Hey there 👋</h1>
 
 <p>
-  <p> Maimun Ahmed · Full-stack Developer from Guwahati, India <img src="https://flagcdn.com/w20/in.png" width="16" alt="India flag"/> </p>
+  <p> Maimun Ahmed · Full-stack Developer · <img src="https://flagcdn.com/w20/in.png" width="16" alt="India flag"/> </p>
   Undergrad at <b>NIT Silchar &rsquo;29</b> | Civil Department<br/>
   Currently learning <b>Svelte</b>, <b>Next.js</b>, and <b>After Effects</b>.
 </p>
