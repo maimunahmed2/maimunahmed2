@@ -29,7 +29,8 @@
 </p>
 <h3>Hobbies & interests</h3> <ul> <li><b>Building web projects</b><br/><i>Small useful tools, dashboards, and clean interfaces.</i></li> <li><b>UI design</b><br/><i>Simple layouts, calm visuals, and better user experiences.</i></li> <li><b>Video editing</b><br/><i>Learning After Effects and short-form visual storytelling.</i></li> <li><b>Machine learning</b><br/><i>Exploring automation, computer vision, and practical AI projects.</i></li> <li><b>Psychology & storytelling</b><br/><i>Understanding human behavior and turning ideas into meaningful content.</i></li>
 </ul>
-@visitstockholm!</a><br/>Currently, the weather is: <b> 4°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:20</b>.</p>
+
+<br/>Currently, the weather is: <b> 4°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:20</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
