@@ -10,7 +10,6 @@
 
 <p>
 Undergrad at <b>NIT Silchar</b><br>
-Full-stack developer building small web projects and learning by creating.
 </p>
 
 <h3>Skills</h3>
