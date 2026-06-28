@@ -8,7 +8,7 @@
 
 <h1>Maimun Ahmed</h1>
 
-<p> Undergrad at <b>NIT Silchar &rsquo;29</b> | Civil Department<br> Full-stack developer building small web projects and learning by creating. </p>
+<p> Undergrad at <b>NIT Silchar &rsquo;29</b> | Civil Department<br></p>
 
 <h3>Skills</h3>
 
