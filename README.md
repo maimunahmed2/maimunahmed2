@@ -13,7 +13,7 @@
 <h3>Skills</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,html,cs,svelte,nextjs,tailwind,nodejs,firebase,mongodb,prisma,tensorflow,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,ts,html,cs,svelte,nextjs,tailwind,git,github" />
 </p>
 
   </td>
