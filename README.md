@@ -1,3 +1,7 @@
+<table width="100%">
+  <tr>
+    <td>
+
 <h1>Hey, I'm Maimun Ahmed.</h1>
 
 <p>
@@ -34,3 +38,7 @@
   <img alt="After Effects" src="https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+  </td>
+  </tr>
+</table>
