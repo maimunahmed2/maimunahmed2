@@ -21,7 +21,7 @@
 <h3>Interests</h3>
 
 <p>
-  Web projects · UI design · Video editing · Machine learning · Psychology & storytelling
+  Web projects · UI design · Video editing · Machine learning
 </p>
 
 <h3>Where to find me</h3>
